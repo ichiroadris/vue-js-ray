@@ -140,4 +140,10 @@ class Ray {
     }
 }
 
-export const ray = (...args) => new Ray().send(...args)
+const ray = (...args) => new Ray().send(...args)
+
+export default {
+    install: function(Vue,) {
+      Object.defineProperty(Vue.prototype, '$ray', { value: ray });
+    }
+  }
