@@ -7,7 +7,7 @@
     "import": "./dist/index.mjs",
     "require": "./dist/index.cjs"
   },
-  "repository": "https://github.com/m1guelpf/ray-js",
+  "repository": "https://github.com/ichiroadris/vue-js-ray",
   "author": "Miguel Piedrafita",
   "license": "MIT",
   "type": "module",
