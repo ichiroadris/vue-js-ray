@@ -19,6 +19,11 @@ import ray from 'vue-js-ray'
 Vue.use(ray)
 ```
 
+...and access the functions with
+```
+this.$ray()
+```
+
 So far the package has been tested and working on Nuxt, Vue-cli and Laravel Jetstream (Inertia Stack)
 
 ## Documentation
