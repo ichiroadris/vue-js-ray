@@ -1,7 +1,7 @@
 {
-  "name": "js-ray",
+  "name": "vue-js-ray",
   "version": "0.0.2",
-  "description": "Debug with Ray to fix problems faster",
+  "description": "Debug Vue application with Ray to fix problems faster",
   "main": "./dist/index.mjs",
   "exports": {
     "import": "./dist/index.mjs",
