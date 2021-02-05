@@ -24,6 +24,8 @@ Vue.use(ray)
 this.$ray()
 ```
 
+You may need to stringify your object first before output to ray.
+
 So far the package has been tested and working on Nuxt, Vue-cli and Laravel Jetstream (Inertia Stack)
 
 ## Documentation

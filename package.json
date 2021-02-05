@@ -1,13 +1,13 @@
 {
   "name": "vue-js-ray",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "Debug Vue application with Ray to fix problems faster",
   "main": "./dist/index.mjs",
   "exports": {
     "import": "./dist/index.mjs",
     "require": "./dist/index.cjs"
   },
-  "repository": "https://github.com/ichiroadris/vue-ray-js",
+  "repository": "https://github.com/ichiroadris/vue-js-ray",
   "author": "Miguel Piedrafita",
   "license": "MIT",
   "type": "module",
